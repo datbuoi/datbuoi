@@ -15,10 +15,10 @@
 
   <!-- GitHub Stats Card (Tự động pull dữ liệu repo/commit từ tài khoản datbuoi) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=datbuoi&show_icons=true&theme=radial&hide_border=true" alt="Dat's GitHub Stats" />
+   
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datbuoi&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
+   
   </a>
 </div>
 ---
